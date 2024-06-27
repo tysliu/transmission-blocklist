@@ -8,7 +8,7 @@ Using [GitHub Actions](./.github/workflows/auto-build.yml) to  generate blocklis
 
 GitHub Source
 ```
-https://github.com/jinyuzu99/transmission_blocklist/raw/release/transmission_blocklist.gz
+https://github.com/tysliu/transmission-blocklist/raw/release/transmission_blocklist.gz
 ```
 
 jsDelivr CDN
